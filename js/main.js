@@ -3,7 +3,7 @@ const productos = [
     // Abrigos
     {
         id: "CAMPERA",
-        titulo: "CAMPERA ARGENTINA",
+        titulo: "ABRIGO DE ARGENTINA",
         imagen: "./img/campera-argentina.jpg",
         categoria: {
             nombre: "Abrigos",
@@ -13,7 +13,7 @@ const productos = [
     },
     {
         id: "CAMPERA-02",
-        titulo: "CAMPERA ARGENTINA",
+        titulo: "ABRIGO DE ARGENTINA",
         imagen: "./img/campera-argentina2.jpg",
         categoria: {
             nombre: "Abrigos",
@@ -23,7 +23,7 @@ const productos = [
     },
     {
         id: "CAMPERA-03",
-        titulo: "CAMPERA ARGENTINA",
+        titulo: "ABRIGO DE ARGENTINA",
         imagen: "./img/campera-argentina3.jpg",
         categoria: {
             nombre: "Abrigos",
@@ -33,7 +33,7 @@ const productos = [
     },
     {
         id: "CAMPERA-04",
-        titulo: "CAMPERA ARGENTINA",
+        titulo: "ABRIGO DE ARGENTINA",
         imagen: "./img/campera-argentina4.jpg",
         categoria: {
             nombre: "Abrigos",
@@ -43,7 +43,7 @@ const productos = [
     },
     {
         id: "CAMPERA-05",
-        titulo: "CAMPERA ARGENTINA",
+        titulo: "ABRIGO DE ARGENTINA",
         imagen: "./img/campera-argentina5.jpg",
         categoria: {
             nombre: "Abrigos",
